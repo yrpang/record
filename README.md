@@ -21,3 +21,9 @@
 ### 任务
 
 1. 学习 rust 并完成 functions-structs。
+
+## Day3(2022-11-03)
+
+### 任务
+
+1. 继续学习 rust 并完成 vecs structs enums strings。
