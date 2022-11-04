@@ -27,3 +27,9 @@
 ### 任务
 
 1. 继续学习 rust 并完成 vecs structs enums strings。
+
+## Day4(2022-11-04)
+
+### 任务
+
+1. 继续学习 rust 并完成到 Iterator。
